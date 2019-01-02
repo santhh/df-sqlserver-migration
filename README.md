@@ -334,19 +334,19 @@ Inspect template
 
 Some Screen Shots for Successful Run:
 
-```
+
 <img width="685" alt="mekehqxhzfq" src="https://user-images.githubusercontent.com/27572451/50616638-4b801500-0eb7-11e9-88b8-f799a71b8720.png">
 
 <img width="1074" alt="t5qnmdqaaey" src="https://user-images.githubusercontent.com/27572451/50616658-66528980-0eb7-11e9-9ca0-e832e35cb862.png">
 
 
-```
+
 In BQ:
 
-```
+
 
 <img width="264" alt="drtwqwanhw3" src="https://user-images.githubusercontent.com/27572451/50616684-8d10c000-0eb7-11e9-8cea-4be834a04b9e.png">
 
 <img width="746" alt="gv5skqteuxx" src="https://user-images.githubusercontent.com/27572451/50616702-a3b71700-0eb7-11e9-9f90-8c92f93b3e83.png">
 
-```
+
