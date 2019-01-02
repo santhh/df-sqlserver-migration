@@ -1,0 +1,17 @@
+[
+   
+   {  
+   		"tableName": "patient",
+   	 	"batchSize":"500",
+   	 	"deidTemplate":"projects/sqlserver-gke-dataflow/deidentifyTemplates/1919023077517469302"
+	},
+	{
+		
+	    "tableName": "patientleave",
+	    "batchSize":"500",
+	    "deidTemplate":"projects/sqlserver-gke-dataflow/deidentifyTemplates/5908005131307652110",
+		"inspTemplate": "projects/sqlserver-gke-dataflow/inspectTemplates/3913777919247397283"
+		
+	}
+	
+]  
